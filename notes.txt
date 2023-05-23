@@ -1,0 +1,8 @@
+1 - Some games have menu icons that aren´t unique, for example the "?", is used for "LEGAL" and for "SHOW HINTS"
+2 - The "FRVR" icon is used in 2 places, and is doing exactly the same, send the user to the FRVR website
+3 - The menus are different for many games, some have "LEGAL" button, other don´t.
+4 - Some games have their initial interactions different from the pattern "LETS GO".
+5 - Some games don't have the FRVR menu
+6 - For some reason, after opening a new tab, some games go black screen, making the bot fail
+7 - Games that start on a mouse click might have issues
+
